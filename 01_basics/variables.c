@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-     // variable is a quantity that can be during program execution
+     
 
    //Variable Declaration  ** synatax  data_type variable_name;
   
