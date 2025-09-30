@@ -18,9 +18,9 @@ void main() {
 
     // Logical NOT example
   if (!(age == 25)) {
-        printf("Your age is NOT equal to 25\n");
+        printf("Your age is NOT equal to  25\n");
     }
-   else 
-   printf("invalid input");
+   else
+   printf("invalid input ");
  
 }
