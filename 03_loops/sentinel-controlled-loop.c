@@ -12,4 +12,4 @@ int main()
     printf("End of program........");
     return 0;
 }
-// gcc 03_loops/sentinel-controlled-loop.c -o sentinel-controlled-loop.exe  && ./sentinel-controlled-loop.exe
+
