@@ -21,4 +21,4 @@ void main()
     return num*num*num;
   }
 
- // gcc 03_loops/sentinel-controlled-loop.c -o sentinel-controlled-loop.exe  && ./sentinel-controlled-loop.exe
+ // gcc 00_/.c -o .exe  && ./.exe
