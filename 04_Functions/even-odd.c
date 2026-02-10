@@ -1,4 +1,5 @@
 #include<stdio.h>
+//checking number is even or odd using function call in condition
  int IsEven(int n)
  {
     if (n%2==0)
